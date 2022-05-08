@@ -4,3 +4,5 @@ npm-debug.log
 /.cache/
 /node_modules/
 /static/
+*.code-workspace
+package-lock.json

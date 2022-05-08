@@ -1,0 +1,5 @@
+/static/**
+**/*.marko.js
+.browser-refresh-ignore
+.gitignore
+.cache/*

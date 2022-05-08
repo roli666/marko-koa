@@ -1,0 +1,6 @@
+{
+  "dependencies": [
+    "marko-hydrate: components/mod-fasz",
+    "marko-hydrate: components/mod-section"
+  ]
+}

@@ -1,0 +1,13 @@
+class {
+  onCreate() {
+    console.log("created a fasz");
+  }
+  onMount() {
+    console.log("mounted a fasz");
+  }
+}
+
+<h1>Hello ${input.name}!</h1>
+<for|value, index| of=input.sections>
+  <${value.template} data=value.data/>
+</for>
